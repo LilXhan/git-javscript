@@ -23,9 +23,9 @@ if (condicion && condicion2) {
 
 if (condicion1) {
   //entro aqui si cumplo la primera condicion
-} if else (condicion2) {
+} else if (condicion2) {
   //entro aqui si se cumple la segunda y no la primera
-} if else (condicion3) {
+} else if (condicion3) {
   //entro aqui si se cumple la tarcera y no la primera e segunda
 } else {
   //entro aqui si no se cumple ninguno
