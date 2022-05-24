@@ -53,7 +53,7 @@ saludarEducadamente(logicaSaludarMaleducado, 'Luis')
 // Las funciones son objetos  y por lo tanto se pueden comportar como tal
 
 //Se usa mucho en la gestion de eventos:
-
+/*
 function processClickEvent(event) {
   //Hago algo cuando recibo el click
 }
@@ -66,3 +66,13 @@ let ItemPantalla; //Algun item de la pantalla (boton, enlaces , etc)
 // Lo que estoy haciendo es pasarle la funcion a ejecutar como parametro
 
 ItemPantalla.onClick(processClickEvent);
+
+*/
+//Ejercicio
+
+
+function arrayMul(vector, numero) {
+  for (let i = 0; i < vector.length; i++)
+    console.log(vector[i] * numero)
+}
+arrayMul([1, 2, 3, 4, 5], 2)
