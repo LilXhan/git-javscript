@@ -53,7 +53,7 @@ saludarEducadamente(logicaSaludarMaleducado, 'Luis')
 // Las funciones son objetos  y por lo tanto se pueden comportar como tal
 
 //Se usa mucho en la gestion de eventos:
-/*
+
 function processClickEvent(event) {
   //Hago algo cuando recibo el click
 }
@@ -67,7 +67,7 @@ let ItemPantalla; //Algun item de la pantalla (boton, enlaces , etc)
 
 ItemPantalla.onClick(processClickEvent);
 
-*/
+
 //Ejercicio
 
 
